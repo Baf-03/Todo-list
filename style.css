@@ -1,0 +1,52 @@
+
+
+body{
+    font-family: Comic Sans MS;
+  
+}
+h1{
+    text-align: center;
+}
+.main{
+    margin: auto;
+    margin-top: 2%;
+}
+.parentdiv{
+    background: blue;
+    
+    
+}
+.searchbar{
+    margin-top: 10px;
+}
+#enter_search{
+    width: 80%;
+}
+.delete_button{
+    background-color: red;
+}
+#save,#enter_search,#clear-button,.remove-btn,.complete_class,.delete_button{
+    margin: 2px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(97, 139, 202);
+    color: black;
+}
+.saveclass{
+   text-align: center;
+}
+#save{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#enter_search{
+    background-color: aliceblue;
+}
+.delete_button{
+    background-color: rgb(233, 57, 57);
+}
+
+.clear-button{
+    cursor: pointer;
+}
